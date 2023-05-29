@@ -1,0 +1,10 @@
+---
+title: "Projeto 2"
+lang: pt
+author: "Agatha Christie"
+date: "12-30-1954"
+image: ../assets/project2.jpg
+categories: 
+  - Categoria B
+  - Categoria C
+---

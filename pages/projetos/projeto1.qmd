@@ -1,0 +1,14 @@
+---
+title: "Projeto 1"
+lang: pt
+author: "Agatha Christie"
+date: "05-29-2023"
+image: ../assets/project1.jpg
+categories: 
+  - Categoria A
+  - Categoria B
+---
+
+# titulo
+
+Texto Exemplo
